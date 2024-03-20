@@ -1,0 +1,20 @@
+[
+    {
+        "input": "that is it. That is so unfortunate and unlucky me. Unfortunately I am still alive.",
+        "label": "Suicide Watch",
+        "prompt": "Your task is to identify whether the given text reflects suicide ideation. Respond with 'Suicide Watch' if the text suggests the author might be considering suicide. Respond with 'Depression' if the text indicates the author is experiencing depression but does not suggest an immediate suicide risk.\n\nBased on the instructions, classify the following text as either 'Depression' or 'Suicide Watch'. Provide only the classification without additional commentary.\n\nText to Classify: that is it. That is so unfortunate and unlucky me. Unfortunately I am still alive.\nClassification:",
+        "prediction": "Depression"
+    },
+    {
+        "input": "I go to a random parking lot in the Tdot park my benz and Overdose in the backseat tonight would anyone notice? Nah because people only care about you if your at the same status. My so called friends left once I got myself financially good. So I doubt anyone would give a fuck about this bitch. What if",
+        "label": "Suicide Watch",
+        "prompt": "Your task is to identify whether the given text reflects suicide ideation. Respond with 'Suicide Watch' if the text suggests the author might be considering suicide. Respond with 'Depression' if the text indicates the author is experiencing depression but does not suggest an immediate suicide risk.\n\nBased on the instructions, classify the following text as either 'Depression' or 'Suicide Watch'. Provide only the classification without additional commentary.\n\nText to Classify: I go to a random parking lot in the Tdot park my benz and Overdose in the backseat tonight would anyone notice? Nah because people only care about you if your at the same status. My so called friends left once I got myself financially good. So I doubt anyone would give a fuck about this bitch. What if\nClassification:",
+        "prediction": "Suicide Watch"
+    },
+    {
+        "input": "I hope at least someone out there is proud of me I finally had a good day",
+        "label": "Suicide Watch",
+        "prompt": "Your task is to identify whether the given text reflects suicide ideation. Respond with 'Suicide Watch' if the text suggests the author might be considering suicide. Respond with 'Depression' if the text indicates the author is experiencing depression but does not suggest an immediate suicide risk.\n\nBased on the instructions, classify the following text as either 'Depression' or 'Suicide Watch'. Provide only the classification without additional commentary.\n\nText to Classify: I hope at least someone out there is proud of me I finally had a good day\nClassification:",
+        "prediction": "Depression"
+    }
+]
