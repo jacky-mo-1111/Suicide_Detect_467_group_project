@@ -1,6 +1,8 @@
 # Suicide_Detect_467_group_project
 Suicide_Detect_467_group_project
 
+Link to dataset: https://www.kaggle.com/datasets/nikhileswarkomati/suicide-watch 
+
 
 The process for results for Naive Bayes are included in the link in the colab repository. Step by step instruction is included in the collab file. 
 
